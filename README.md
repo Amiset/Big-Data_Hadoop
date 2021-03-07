@@ -1,3 +1,8 @@
+Dated - Dec 2020
+Files in the Repository:
+ - COVID POC.csv  :  Dataset
+ - POC
+ - 
 # Big Data_Hadoop
 PoC on using Hadoop for Big Data. Use of Sqoop, Pig, Hive and IBM Watson is demonstrated. 
 I used Cloudera-quickstart-vm-5.12.0.0 loaded on an Oracle VM Virtual Box.
